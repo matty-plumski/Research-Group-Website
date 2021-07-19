@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: The Four Yanis of the Acropolis # Website name
+baseurl: 'https://sad-jang-d62138.netlify.app/' # Website URL
+copyright: '© {year} Yani Acropolis'
 
 ############################
 ## LANGUAGE
